@@ -38,5 +38,4 @@ class Book
 
 end
 
-book = Book.new
-book.turn_page
+
